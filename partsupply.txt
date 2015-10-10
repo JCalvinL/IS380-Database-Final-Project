@@ -1,0 +1,26 @@
+
+             -------- Parts Inventory Level and Supplier Report -------- Page:         1            
+                                                                                                    
+      Part                          Qty In   Supplier Supplier             Supplier                 
+       No. Description               Stock       Code Name                 Phone                    
+---------- -------------------- ---------- ---------- -------------------- --------------           
+       100 Oil Filter                   75        101 ACE Auto             (562) 555-1234           
+                                                                                                    
+       101 Air Filter                  120        101 ACE Auto             (562) 555-1234           
+                                                  102 Better Auto Buys     (714) 555-2222           
+                                                                                                    
+       102 Oil Can                     300        101 ACE Auto             (562) 555-1234           
+                                                  102 Better Auto Buys     (714) 555-2222           
+                                                  103 Cars R Us            (562) 555-3333           
+                                                  104 Delta Parts          (562) 555-4444           
+                                                                                                    
+       103 Spark Plugs                 200        101 ACE Auto             (562) 555-1234           
+                                                  103 Cars R Us            (562) 555-3333           
+                                                  104 Delta Parts          (562) 555-4444           
+                                                                                                    
+       104 Antifreeze                  100        101 ACE Auto             (562) 555-1234           
+                                                  104 Delta Parts          (562) 555-4444           
+                                                                                                    
+
+12 rows selected.
+
