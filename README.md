@@ -1,5 +1,5 @@
 <h2 align="center">IS380-Final-Project</h2>
-<h3 align= "center">Database Management<h3>
+<h3 align= "center">Database Management</h3>
 
                                   CALIFORNIA STATE UNIVERSITY, LONG BEACH
                                   IS 380 – Database Management
