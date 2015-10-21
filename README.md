@@ -4,7 +4,7 @@
 <h4 align="center">CALIFORNIA STATE UNIVERSITY, LONG BEACH</h4>
 <h4 align="center">IS 380 – Database Management</h4>
 <h4 align="center">Spring 2015 Term – Session 1</h4>
-<h4 align="center">PROJECT – PART 1</h4
+<h4 align="center">PROJECT – PART 1</h4>
 
 NOTE
 Below output is shown using SQL*Plus.  You may use SQL Developer, but keep in mind differences discussed in class.
