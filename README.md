@@ -204,19 +204,9 @@ o	Note: Tables should be in Third Normal Form
 •	Oracle Script to create all the tables.
 o	create.sql  – SQL code that creates all the tables, with Primary and Foreign keys defined.  
 o	CreateOutput.txt – Output of above script (Recall, in your script file or in SQL*Plus, SET ECHO ON and spool the output to CreateOuput.txt)  
-o	See print outs of both files: create.sql and CreateOutput.txt.  
-
-                                  ----------------------------------------------
-                                  CALIFORNIA STATE UNIVERSITY, LONG BEACH
-                                  IS 380 – Database Management
-                                  Spring 2015 Term
-                                  PROJECT – PART 2
-                                  Monday Class/Session 2 – Monday, May 4
-                                  Wednesday Class/Session 1 – Wednesday, May 6
-
-NOTE
-Below output is shown using SQL*Plus.  You may use SQL Developer, but keep in mind differences discussed in class.
-
+o	See print outs of both files: create.sql and CreateOutput.txt.  <br>
+<hr>
+<h2 align="center"> Part 2 </h2>
 OVERVIEW
 (See last page for project deliverables)
 This is part 2 of the project which you have already began working on.
@@ -580,32 +570,4 @@ Note the following report characteristics:
 •	Suppliers are displayed in ascending order (by supplier number). For each supplier, the orders are displayed in ascending order.
 •	Status is shown for each order as Open or Complete (Determined by Receive Date).
 •	Date formats (Order Date and Receive Date).
-
- 
-
-PART 2 – PROJECT Deliverable
-
-Note:  Run CREATE.SQL (solution to project part 1) to create the appropriate tables.  This script will also create a sequence to be used for the Order Numbers.  Details of the sequence are:
-Sequence Name:  ORDERNUMBER
-Starts with: 1010
-Increments by:  1.
-
-If you decide to use different table structures and/or different data, you must resubmit your create script with your project deliverables.  
-
-You need to submit the following:
-
-•	Electronic copy of the following programs:
-o	CREATE.SQL – Optional (see above)
-o	NEWORD.SQL – Described in this document.
-o	RECEIVE.SQL – Described in this document.
-o	PARTUPDATE.SQL – Described in this document.
-o	PARTSUPP.SQL – Described in this document.
-o	SUPPSTATUS.SQL – Described in this document.
-•	A print out of the following:
-o	Each of the above SQL files
-o	Table structures (Optional) – If you modified the tables given in the solution, provide a listing of the new table structures (use the DESC command.  e.g. DESC SUPPLIER) for all tables used.  Additionally, provide your detailed ER Diagram.
-
-
-
-
 
